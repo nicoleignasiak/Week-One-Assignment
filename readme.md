@@ -1,6 +1,6 @@
 # Intro to Computational Science 125
 
-* **Instructor:** Dan Neumann, [daniel.neumann@indwes.edu](mailto:daniel.neumann@indwes.edu)
+**Instructor:** Dan Neumann, [daniel.neumann@indwes.edu](mailto:daniel.neumann@indwes.edu)
 
 ## Week One Lab
 

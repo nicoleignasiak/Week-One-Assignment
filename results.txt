@@ -1,0 +1,6 @@
+n the first program, every number was different for every value of "i". 
+In the second program, at first the numbers were random too. 
+As "i" increased though, the outputs became the same number.
+I liked changing the "magic numbers" to varaibles also. It makes it easier to 
+see what the numbers are and it makes it alot easier to change the numbers
+by having their assignment in a varaible.

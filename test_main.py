@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-__author__ = 'daniel.neumann'
+__author__ = 'NicoleIgnasiak'
 
 
 class TestMain(TestCase):
